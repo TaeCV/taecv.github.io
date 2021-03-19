@@ -50,11 +50,6 @@ body {
   }
 }
 
-.contact-icon {
-  margin-right: 5px;
-  width: 16px;
-}
-
 .contact-item {
   margin-bottom: 4px;
 }
@@ -66,6 +61,11 @@ body {
 em {
   font-style: normal;
   font-weight: 550;
+}
+
+.icon {
+  margin-right: 5px;
+  width: 16px;
 }
 
 .job {
@@ -98,6 +98,16 @@ em {
 
 .programming-skill-language {
   margin-bottom: 24px;
+}
+
+.project {
+  font-size: 24px;
+  margin-bottom: 50px;
+}
+
+.python-link {
+  text-decoration: none;
+  color: rgb(194, 211, 49);
 }
 
 .skill {
